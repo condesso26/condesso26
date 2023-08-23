@@ -2,6 +2,8 @@
 my name is Caio, I had 21 y/o, I'm living in Sao Paulo, Brazil. actually I'm studying system anaylisis in 3rd semester. 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=condesso26)](https://github.com/anuraghazra/github-readme-stats)<!--
 **condesso26/condesso26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+
 
 Here are some ideas to get you started:
 
