@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋 
+my name is Caio nad i had 21 y/o, i'm living in Sao Paulo, Brazil. actually i'm studying system anaylisis in 3rd semester. 
 
 <!--
 **condesso26/condesso26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
